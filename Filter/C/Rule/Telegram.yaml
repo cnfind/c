@@ -1,0 +1,17 @@
+payload:
+# > Telegram
+  - DOMAIN-SUFFIX,comments.app
+  - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tx.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telegram-cdn.org
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-KEYWORD,telegram
+  - IP-CIDR,91.108.0.0/16,no-resolve
+  - IP-CIDR,149.154.160.0/20,no-resolve
+  - IP-CIDR,91.105.192.0/23,no-resolve
+  - IP-CIDR,185.76.151.0/24,no-resolve
+  - IP-CIDR,109.239.140.0/24,no-resolve

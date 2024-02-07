@@ -1,0 +1,32 @@
+# > Google
+HOST-SUFFIX,tw,Global
+HOST-KEYWORD,google,Global
+HOST-KEYWORD,youtube,Global
+HOST-KEYWORD,gmail,Global
+HOST-KEYWORD,facebook,Global
+HOST-KEYWORD,twitter,Global
+HOST-KEYWORD,dropbox,Global
+HOST-KEYWORD,appspot,Global
+HOST-KEYWORD,docker,Global
+HOST-SUFFIX,gstatic.com,Global
+HOST-SUFFIX,letsencrypt.org,Global
+HOST-SUFFIX,android.com,Global
+HOST-SUFFIX,chrome.com,Global
+HOST-SUFFIX,youtu.be,Global
+HOST-SUFFIX,googlevideo.com,Global
+HOST-SUFFIX,googledrive.com,Global
+HOST-SUFFIX,googleusercontent.com,Global
+HOST,voice.telephony.goog,Global
+# > Ohter
+HOST-KEYWORD,github,Global
+HOST-SUFFIX,github.io,Global
+HOST-SUFFIX,githubapp.com,Global
+HOST-SUFFIX,githubassets.com,Global
+HOST-SUFFIX,githubusercontent.com,Global
+HOST-KEYWORD,gitee,Global
+HOST-KEYWORD,gitter,Global
+HOST-KEYWORD,gitlab,Global
+HOST-KEYWORD,onedrive,Global
+HOST-SUFFIX,fabric.io,Global
+HOST-SUFFIX,1drv.com,Global
+HOST-SUFFIX,vercel.app,Global

@@ -1,0 +1,32 @@
+# > Google
+DOMAIN-SUFFIX,tw
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,appspot
+DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,voice.telephony.goog
+# > Ohter
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,gitee
+DOMAIN-KEYWORD,gitter
+DOMAIN-KEYWORD,gitlab
+DOMAIN-KEYWORD,onedrive
+DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,vercel.app

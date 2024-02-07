@@ -1,0 +1,19 @@
+payload:
+# > iOS Update
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN,xp.apple.com
+  - DOMAIN,mesu.apple.com
+  - DOMAIN,gdmf.apple.com
+  - DOMAIN,updates-http.cdn-apple.com
+# > FinalShell
+  - DOMAIN-SUFFIX,dkys.org
+  - DOMAIN-SUFFIX,youtusoft.com
+  - DOMAIN-SUFFIX,hostbuf.com
+  - DOMAIN-SUFFIX,tcpspeed.com
+  - DOMAIN-SUFFIX,wn1998.com
+# > Ohter
+  - DOMAIN-KEYWORD,doubleclick.
+  - DOMAIN-KEYWORD,adwords
+  - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,duomeng
+  - DOMAIN-KEYWORD,umeng
